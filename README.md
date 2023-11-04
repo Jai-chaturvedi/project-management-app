@@ -6,3 +6,7 @@ project-management-app is used to keep track of different projects that we have 
 
   ## New Project Tab : 
 ![Screenshot (167)](https://github.com/Jai-chaturvedi/project-management-app/assets/128933132/93579967-2452-4078-8708-ec3bfde17147)
+
+## Selected Project Tab : 
+
+![Screenshot (166)](https://github.com/Jai-chaturvedi/project-management-app/assets/128933132/7cb27aaa-da46-4f1b-aa24-e5a1b53d3a50)
